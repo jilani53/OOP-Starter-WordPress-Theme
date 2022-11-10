@@ -1,0 +1,105 @@
+/**
+* Main Color: #6caf17
+* Hover Color: #549006
+*/
+
+body.login {
+    background: #333333
+}
+.login.wp-core-ui form,
+body.login div#login form#loginform {
+    border-radius: 5px;
+}
+.login.wp-core-ui #login_error {
+    border-radius: 3px;
+}
+.login.wp-core-ui .message, 
+.login.wp-core-ui .success {
+    border-left: 4px solid #6caf17;
+    border-radius: 3px
+}
+.wp-core-ui .button-group.button-large .button, 
+.wp-core-ui .button.button-large,
+body.login div#login form#loginform p.submit input#wp-submit {
+    background: #6caf17;
+    border: 1px solid #6caf17;
+    font-weight: 600;
+    outline: none;
+    box-shadow: none;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.wp-core-ui .button-group.button-large .button:hover,
+.wp-core-ui .button.button-large:hover,
+body.login div#login form#loginform p.submit input#wp-submit:hover {
+    background: #549006;
+    border: 1px solid #549006;
+    box-shadow: none;
+}
+body.login div#login p#nav {
+    color: #838383;
+    padding: 0;
+    text-align: center;
+}
+body.login div#login p#nav a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    outline: none;
+    box-shadow: none;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.login .button.wp-hide-pw .dashicons,
+body.login div#login p#nav a:hover {
+    color: #6caf17;
+}
+body.login div#login p#backtoblog a {
+    display: none;
+}
+.login form .input, 
+.login input[type=password], 
+.login input[type=text] {
+    border: 1px solid #86888a;
+    box-shadow: none;
+    outline: none;
+    font-size: 15px;
+    padding: 0 10px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.login form .input:focus, 
+.login input[type=password]:focus, 
+.login input[type=text]:focus {
+    border-color: #6caf17;
+    box-shadow: 0 0px 0px #6caf17 inset, 0 0 0px #6caf17;
+}
+
+/* Social Login Style */
+#edd-slg-social-container-login.edd-slg-social-container {
+    border: 0;
+}
+#edd-slg-social-container-login.edd-slg-social-container {
+    margin: 0 auto;
+    width: 308px;
+}
+.edd-slg-social-container legend {
+    color: #ffffff;
+    text-align: center;
+}
+.edd-slg-social-wrap img {
+    outline: 0;
+    border-radius: 3px;
+}
+.edd-slg-login-wrapper {
+    margin: 5px
+}
+.edd-slg-login-wrapper a {
+    box-shadow: none;
+}
+.g-recaptcha {
+    margin-bottom: 15px;
+}

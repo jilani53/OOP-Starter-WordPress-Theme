@@ -1,0 +1,1053 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-09 17:03+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: _s\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:29
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:31
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:32
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:47
+msgid "Name"
+msgstr ""
+
+#: comments.php:53 inc/customizer.php:337
+msgid "Email"
+msgstr ""
+
+#: comments.php:68 comments.php:92
+msgid " Comment "
+msgstr ""
+
+#: comments.php:68 comments.php:92
+msgid " Comments "
+msgstr ""
+
+#: comments.php:122
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:146
+msgid "Reply"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:143
+msgid "on"
+msgstr ""
+
+#: header.php:83
+msgid "Sign In"
+msgstr ""
+
+#: inc/breadcrumbs.php:11
+msgid "Home "
+msgstr ""
+
+#: inc/breadcrumbs.php:181 inc/breadcrumbs.php:185 inc/breadcrumbs.php:189
+#: inc/breadcrumbs.php:196 inc/breadcrumbs.php:200 inc/breadcrumbs.php:205
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:216
+msgid "Author:"
+msgstr ""
+
+#: inc/breadcrumbs.php:221
+msgid "Page"
+msgstr ""
+
+#: inc/breadcrumbs.php:226
+msgid "Search results for: "
+msgstr ""
+
+#: inc/breadcrumbs.php:231
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Light Logo"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Stiky menu show/hide"
+msgstr ""
+
+#: inc/customizer.php:109 inc/customizer.php:132 inc/customizer.php:279
+#: inc/customizer.php:828 inc/customizer.php:851 inc/customizer.php:874
+#: inc/customizer.php:906 inc/customizer.php:929 inc/customizer.php:952
+#: inc/customizer.php:1439 inc/customizer.php:1462 inc/customizer.php:1485
+#: inc/customizer.php:1508 inc/customizer.php:1531 inc/customizer.php:1554
+#: inc/customizer.php:1577 inc/customizer.php:1600 inc/customizer.php:1899
+#: inc/customizer.php:1922 inc/customizer.php:1945 inc/customizer.php:1968
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:110 inc/customizer.php:133 inc/customizer.php:280
+#: inc/customizer.php:829 inc/customizer.php:852 inc/customizer.php:875
+#: inc/customizer.php:907 inc/customizer.php:930 inc/customizer.php:953
+#: inc/customizer.php:1440 inc/customizer.php:1463 inc/customizer.php:1486
+#: inc/customizer.php:1509 inc/customizer.php:1532 inc/customizer.php:1555
+#: inc/customizer.php:1578 inc/customizer.php:1601 inc/customizer.php:1900
+#: inc/customizer.php:1923 inc/customizer.php:1946 inc/customizer.php:1969
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Page Loader"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Page Loader Style"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Style 4"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Style 5"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Style 6"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Style 7"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Loader Background Color"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Menu Width ( Container or Container Fluid )"
+msgstr ""
+
+#: inc/customizer.php:195 inc/customizer.php:1290 inc/customizer.php:2273
+#: inc/customizer.php:2342 inc/customizer.php:2517
+msgid "Container"
+msgstr ""
+
+#: inc/customizer.php:196 inc/customizer.php:1291 inc/customizer.php:2274
+#: inc/customizer.php:2343 inc/customizer.php:2518
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Menu Background ( Dark or Light )"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Background Drak"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Background Light"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Starter Header"
+msgstr ""
+
+#: inc/customizer.php:234 inc/customizer.php:585 inc/customizer.php:798
+#: inc/customizer.php:967 inc/customizer.php:2031 inc/customizer.php:2472
+msgid "Several settings pertaining starter theme"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Top Alert"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Top Deal Alert Text"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Alert Show/Hide"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Date Schedule"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Top menu information"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Phone no"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Button text"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Main menu right button text."
+msgstr ""
+
+#: inc/customizer.php:370 inc/customizer.php:2124 inc/customizer.php:2251
+msgid "Button url"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Main menu right button url."
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Signup text"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Main menu signup text."
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Signup url"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Main menu signup url."
+msgstr ""
+
+#: inc/customizer.php:421
+msgid "Signin text"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Main menu signin text."
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Signin url"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Main menu signin url."
+msgstr ""
+
+#: inc/customizer.php:457 inc/customizer.php:2292
+msgid "Call to action button style"
+msgstr ""
+
+#: inc/customizer.php:461 inc/customizer.php:2296
+msgid "Style one"
+msgstr ""
+
+#: inc/customizer.php:462 inc/customizer.php:2297
+msgid "Style two"
+msgstr ""
+
+#: inc/customizer.php:463 inc/customizer.php:2298
+msgid "Style three"
+msgstr ""
+
+#: inc/customizer.php:464 inc/customizer.php:2299
+msgid "Style four"
+msgstr ""
+
+#: inc/customizer.php:465 inc/customizer.php:2300
+msgid "Style five"
+msgstr ""
+
+#: inc/customizer.php:466 inc/customizer.php:2301
+msgid "Style six"
+msgstr ""
+
+#: inc/customizer.php:467 inc/customizer.php:2302
+msgid "Style seven"
+msgstr ""
+
+#: inc/customizer.php:468 inc/customizer.php:2303
+msgid "Style eight"
+msgstr ""
+
+#: inc/customizer.php:469 inc/customizer.php:2304
+msgid "Style nine"
+msgstr ""
+
+#: inc/customizer.php:470 inc/customizer.php:2305
+msgid "Style ten"
+msgstr ""
+
+#: inc/customizer.php:471 inc/customizer.php:2306
+msgid "Style eleven"
+msgstr ""
+
+#: inc/customizer.php:472 inc/customizer.php:2307
+msgid "Style Primary"
+msgstr ""
+
+#: inc/customizer.php:473 inc/customizer.php:2308
+msgid "Style Secondary"
+msgstr ""
+
+#: inc/customizer.php:474 inc/customizer.php:2309
+msgid "Style Default"
+msgstr ""
+
+#: inc/customizer.php:475 inc/customizer.php:2310
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Facebook url"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Twitter url"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "Linkedin url"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Google url"
+msgstr ""
+
+#: inc/customizer.php:547
+msgid "Page Header Banner"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "Upload Page Banner"
+msgstr ""
+
+#: inc/customizer.php:584
+msgid "Starter Colors & Fonts"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "Active Custom Colors & Fonts"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Active/Deactive Custom Style"
+msgstr ""
+
+#: inc/customizer.php:614 inc/customizer.php:1038 inc/customizer.php:1062
+msgid "Active"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Deactive"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Starter Colors"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Primary Hover Color"
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:674
+msgid "Secondary Hover Color"
+msgstr ""
+
+#: inc/customizer.php:680
+msgid "Starter Fonts"
+msgstr ""
+
+#: inc/customizer.php:698
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Input your desired Primary Font. Ex: Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600"
+msgstr ""
+
+#: inc/customizer.php:715
+msgid "Primary Font Family"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "Input Primary Font Family. Ex: 'Open Sans', sans-serif;"
+msgstr ""
+
+#: inc/customizer.php:733
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer.php:734
+msgid "Input your desired Secondary Font. Ex: Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500"
+msgstr ""
+
+#: inc/customizer.php:751
+msgid "Secondary Font Family"
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "Input Secondary Font Family. Ex: 'Poppins', sans-serif;"
+msgstr ""
+
+#: inc/customizer.php:760
+msgid "Language Direction"
+msgstr ""
+
+#: inc/customizer.php:779
+msgid "Language Direction ( LTR/RTL )"
+msgstr ""
+
+#: inc/customizer.php:783
+msgid "RTL"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "LTR"
+msgstr ""
+
+#: inc/customizer.php:797
+msgid "Starter Blog"
+msgstr ""
+
+#: inc/customizer.php:804
+msgid "Blog Sidebar Options"
+msgstr ""
+
+#: inc/customizer.php:824
+msgid "Show/Hide starter Category Style"
+msgstr ""
+
+#: inc/customizer.php:847
+msgid "Show/Hide starter Tag Style"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Show/Hide blog favourite icon from product and author page."
+msgstr ""
+
+#: inc/customizer.php:883
+msgid "Blog Single Page"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "Single Post Share Icon show/hide"
+msgstr ""
+
+#: inc/customizer.php:925
+msgid "Single Post Author show/hide"
+msgstr ""
+
+#: inc/customizer.php:948
+msgid "Single Post Top Author show/hide ( Full Width )"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Starter Settings"
+msgstr ""
+
+#: inc/customizer.php:973
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer.php:990
+msgid "Asset Controller"
+msgstr ""
+
+#: inc/customizer.php:1010
+msgid "Select Bootstrap"
+msgstr ""
+
+#: inc/customizer.php:1014
+msgid "Bootstrap 4 ( Recommended )"
+msgstr ""
+
+#: inc/customizer.php:1015
+msgid "Bootstrap 5 ( Testing Mode )"
+msgstr ""
+
+#: inc/customizer.php:1033
+msgid "Active MP3 Scripts"
+msgstr ""
+
+#: inc/customizer.php:1034
+msgid "Active MP3 scripts to play audio."
+msgstr ""
+
+#: inc/customizer.php:1039 inc/customizer.php:1063
+msgid "Inactive"
+msgstr ""
+
+#: inc/customizer.php:1057
+msgid "Active Lightbox Scripts"
+msgstr ""
+
+#: inc/customizer.php:1058
+msgid "Active Lightbox scripts to pop up photography image."
+msgstr ""
+
+#: inc/customizer.php:1079
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/customizer.php:1099
+msgid "Select Widget Style"
+msgstr ""
+
+#: inc/customizer.php:1103
+msgid "Non-block Widget"
+msgstr ""
+
+#: inc/customizer.php:1104
+msgid "Block Widget"
+msgstr ""
+
+#: inc/customizer.php:1120
+msgid "VideoMart Settings"
+msgstr ""
+
+#: inc/customizer.php:1139
+msgid "Video Height ( Only for video demo )"
+msgstr ""
+
+#: inc/customizer.php:1157
+msgid "Active Video Sound on Hover"
+msgstr ""
+
+#: inc/customizer.php:1161
+msgid "Sound Active"
+msgstr ""
+
+#: inc/customizer.php:1162
+msgid "Sound Inactive"
+msgstr ""
+
+#: inc/customizer.php:1179
+msgid "Youtube video \"Read More\" button text"
+msgstr ""
+
+#: inc/customizer.php:1187
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer.php:1204
+msgid "Change serach box text"
+msgstr ""
+
+#: inc/customizer.php:1220
+msgid "Refresh Filter text"
+msgstr ""
+
+#: inc/customizer.php:1236
+msgid "Product Type Text"
+msgstr ""
+
+#: inc/customizer.php:1252
+msgid "All Prices Are in USD Text"
+msgstr ""
+
+#: inc/customizer.php:1268
+msgid "Change Category Text"
+msgstr ""
+
+#: inc/customizer.php:1286
+msgid "Product Archive Page Width ( Container or Container Fluid )"
+msgstr ""
+
+#: inc/customizer.php:1309
+msgid "Archive product style."
+msgstr ""
+
+#: inc/customizer.php:1313
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:1314
+msgid "List ( Only for software demos )"
+msgstr ""
+
+#: inc/customizer.php:1332
+msgid "Archive For ( Software/Photography/Graphics/Audio/Video )"
+msgstr ""
+
+#: inc/customizer.php:1336
+msgid "SoftWare"
+msgstr ""
+
+#: inc/customizer.php:1337
+msgid "Photography"
+msgstr ""
+
+#: inc/customizer.php:1338
+msgid "Graphics"
+msgstr ""
+
+#: inc/customizer.php:1339
+msgid "Audio"
+msgstr ""
+
+#: inc/customizer.php:1340
+msgid "Video"
+msgstr ""
+
+#: inc/customizer.php:1356
+msgid "Archive/Author Profile product settings "
+msgstr ""
+
+#: inc/customizer.php:1376
+msgid "Product Grid"
+msgstr ""
+
+#: inc/customizer.php:1380
+msgid "6 Column"
+msgstr ""
+
+#: inc/customizer.php:1381
+msgid "4 Column"
+msgstr ""
+
+#: inc/customizer.php:1382
+msgid "3 Column"
+msgstr ""
+
+#: inc/customizer.php:1383
+msgid "2 Column"
+msgstr ""
+
+#: inc/customizer.php:1400
+msgid "Archive grid product title limit in letter."
+msgstr ""
+
+#: inc/customizer.php:1417
+msgid "Archive list product title limit in letter."
+msgstr ""
+
+#: inc/customizer.php:1435
+msgid "Show/Hide author name from archive product."
+msgstr ""
+
+#: inc/customizer.php:1458
+msgid "Show/Hide category name from archive product."
+msgstr ""
+
+#: inc/customizer.php:1481
+msgid "Show/Hide item excerpt."
+msgstr ""
+
+#: inc/customizer.php:1504
+msgid "Show/Hide product rating, sale, love."
+msgstr ""
+
+#: inc/customizer.php:1527
+msgid "Show/Hide only ratings"
+msgstr ""
+
+#: inc/customizer.php:1550
+msgid "Show/Hide only love icon"
+msgstr ""
+
+#: inc/customizer.php:1573
+msgid "Show/Hide only sales"
+msgstr ""
+
+#: inc/customizer.php:1596
+msgid "Show/Hide price"
+msgstr ""
+
+#: inc/customizer.php:1621
+msgid "Photography Archive Advertise"
+msgstr ""
+
+#: inc/customizer.php:1639
+msgid "Set Ad Position 1."
+msgstr ""
+
+#: inc/customizer.php:1640 inc/customizer.php:1674 inc/customizer.php:1708
+#: inc/customizer.php:1742 inc/customizer.php:1776
+msgid "Photography archive page ad position."
+msgstr ""
+
+#: inc/customizer.php:1656
+msgid "Ad 1 Code."
+msgstr ""
+
+#: inc/customizer.php:1673
+msgid "Set Ad Position 2."
+msgstr ""
+
+#: inc/customizer.php:1690
+msgid "Ad 2 Code."
+msgstr ""
+
+#: inc/customizer.php:1707
+msgid "Set Ad Position 3."
+msgstr ""
+
+#: inc/customizer.php:1724
+msgid "Ad 3 Code."
+msgstr ""
+
+#: inc/customizer.php:1741
+msgid "Set Ad Position 4."
+msgstr ""
+
+#: inc/customizer.php:1758
+msgid "Ad 4 Code."
+msgstr ""
+
+#: inc/customizer.php:1775
+msgid "Set Ad Position 5."
+msgstr ""
+
+#: inc/customizer.php:1792
+msgid "Ad 5 Code."
+msgstr ""
+
+#: inc/customizer.php:1808
+msgid "Archive Description for SEO."
+msgstr ""
+
+#: inc/customizer.php:1817
+msgid "Product Single"
+msgstr ""
+
+#: inc/customizer.php:1836
+msgid "Show/Hide Product Feature"
+msgstr ""
+
+#: inc/customizer.php:1837
+msgid "This feature option means product specification section for a single product sidebar or others."
+msgstr ""
+
+#: inc/customizer.php:1841
+msgid "Admin Capability"
+msgstr ""
+
+#: inc/customizer.php:1842
+msgid "Vendor Capability"
+msgstr ""
+
+#: inc/customizer.php:1843
+msgid "Hide Feature Section"
+msgstr ""
+
+#: inc/customizer.php:1860
+msgid "Change single product \"Add to Favorites\" text."
+msgstr ""
+
+#: inc/customizer.php:1877
+msgid "Change single product \"Person Liked it\" text."
+msgstr ""
+
+#: inc/customizer.php:1895
+msgid "Price box show/hide"
+msgstr ""
+
+#: inc/customizer.php:1918
+msgid "Purchase & Comment Universally show/hide"
+msgstr ""
+
+#: inc/customizer.php:1941
+msgid "User Profile show/hide"
+msgstr ""
+
+#: inc/customizer.php:1964
+msgid "Stiky Price show/hide"
+msgstr ""
+
+#: inc/customizer.php:1987
+msgid "Single Product Page Mouse Right Button Enable/Disable ( Specially Photography )"
+msgstr ""
+
+#: inc/customizer.php:1991
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:1992
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:2000
+msgid "Google Map API"
+msgstr ""
+
+#: inc/customizer.php:2017
+msgid "Google map API key"
+msgstr ""
+
+#: inc/customizer.php:2030
+msgid "Starter Others"
+msgstr ""
+
+#: inc/customizer.php:2037
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer.php:2058
+msgid "404 Page background image"
+msgstr ""
+
+#: inc/customizer.php:2076 inc/customizer.php:2203
+msgid "Title Text"
+msgstr ""
+
+#: inc/customizer.php:2092
+msgid "Sub Title Text"
+msgstr ""
+
+#: inc/customizer.php:2108 inc/customizer.php:2235
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:2132
+msgid "Page Call To Action"
+msgstr ""
+
+#: inc/customizer.php:2153
+msgid "CTA background image"
+msgstr ""
+
+#: inc/customizer.php:2171
+msgid "Gradient Color One"
+msgstr ""
+
+#: inc/customizer.php:2187
+msgid "Gradient Color Two"
+msgstr ""
+
+#: inc/customizer.php:2219
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:2269
+msgid "CTA Width ( Container or Container Fluid )"
+msgstr ""
+
+#: inc/customizer.php:2319
+msgid "Our Commitment"
+msgstr ""
+
+#: inc/customizer.php:2338
+msgid "Commitment Width ( Container or Container Fluid )"
+msgstr ""
+
+#: inc/customizer.php:2363
+msgid "Upload payment image"
+msgstr ""
+
+#: inc/customizer.php:2381 inc/customizer.php:2419 inc/customizer.php:2457
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:2401
+msgid "Upload money back image"
+msgstr ""
+
+#: inc/customizer.php:2439
+msgid "Upload support image"
+msgstr ""
+
+#: inc/customizer.php:2471
+msgid "Starter Footer"
+msgstr ""
+
+#: inc/customizer.php:2478
+msgid "Footer information"
+msgstr ""
+
+#: inc/customizer.php:2495
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:2513
+msgid "Footer Width ( Container or Container Fluid )"
+msgstr ""
+
+#: inc/customizer.php:2536
+msgid "Footer General/Animate Background"
+msgstr ""
+
+#: inc/customizer.php:2540
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:2541
+msgid "Background Animation"
+msgstr ""
+
+#: inc/customizer.php:2542
+msgid "Dark"
+msgstr ""
+
+#: inc/template-functions.php:111
+msgid "Username"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widget.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widget.php:19
+msgid "Sidebar position."
+msgstr ""
+
+#: inc/widget.php:25
+msgid "bbpress Sidebar"
+msgstr ""
+
+#: inc/widget.php:27
+msgid "bbpress Sidebar position."
+msgstr ""
+
+#: inc/widget.php:33
+msgid "Footer Link Widget"
+msgstr ""
+
+#: inc/widget.php:35
+msgid "Footer widget for link position."
+msgstr ""
+
+#: inc/widget.php:41
+msgid "Footer About Widget"
+msgstr ""
+
+#: inc/widget.php:43
+msgid "Footer widget for about position."
+msgstr ""
+
+#: inc/widget.php:49
+msgid "Footer Subscribe Widget"
+msgstr ""
+
+#: inc/widget.php:51
+msgid "Footer widget for subscribe email form position."
+msgstr ""
+
+#: inc/widget.php:57
+msgid "Footer Bottom Link Widget"
+msgstr ""
+
+#: inc/widget.php:59
+msgid "Footer widget for bottom link position."
+msgstr ""
+
+#: inc/widget.php:63
+msgid "User Profile Link Wdiget Area"
+msgstr ""
+
+#: inc/widget.php:65
+msgid "This is your widget profile link widget area to show usefull link."
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:25
+msgid "Previous:"
+msgstr ""
+
+#: single.php:26
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
