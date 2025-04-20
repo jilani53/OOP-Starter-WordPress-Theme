@@ -53,3 +53,9 @@ Stater is distributed under the terms of the GNU GPLv2 or later
 == Images Screenshot ==
 * Theme Screenshot image , self created
 License: CC0 1.0 Universal (CC0 1.0)
+
+== Preparing for Your Project ==
+* Replace starter with your_project_name *
+* Replace STARTER with YOUR_PROJECT_NAME *
+* Replace namespace STARTER_THEME with YOUR_PROJECT_NAME_THEME *
+* Rename the root file from your_theme/inc/classes/class-starter-theme.php to your_theme/inc/classes/class-your_project_name-theme.php *
